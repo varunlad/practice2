@@ -7,8 +7,6 @@ def
 ghi
 VARUN IS MY NAME
 I LOVE FOOTBALL
-<<<<<<< HEAD
 i hate real madrid
-=======
 I LOVE BARCA
->>>>>>> 2b0247e391ebe9a01ec79cb3697ca8ed0f1e8fc0
+we love football.
